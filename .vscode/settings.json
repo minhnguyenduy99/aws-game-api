@@ -3,5 +3,7 @@
   "python.autoComplete.extraPaths": [
     "${workspaceFolder}/.env/Lib/site-packages"
   ],
-  "editor.tabSize": 4
+  "editor.tabSize": 4,
+  "python.linting.pylintEnabled": true,
+  "python.linting.enabled": true
 }

@@ -39,6 +39,5 @@ with open("README.md") as fp:
         "Topic :: Software Development :: Code Generators",
         "Topic :: Utilities",
 
-        "Typing :: Typed",
-    ],
-)
+        "Typing :: Typed"
+    ]
